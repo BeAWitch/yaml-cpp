@@ -3,6 +3,8 @@
 #include <iterator>
 #include <sstream>
 
+#define YAML_CPP_STATIC_DEFINE
+
 #include "yaml-cpp/exceptions.h"
 #include "yaml-cpp/node/detail/memory.h"
 #include "yaml-cpp/node/detail/node.h"  // IWYU pragma: keep
