@@ -17,11 +17,11 @@
   nodebuilder.cpp
   nodeevents.cpp
   null.cpp
+  ostream_wrapper.cpp
 D:\study\dev\Hazel\Hazel\vendor\yaml-cpp\src\node_data.cpp(6,1): warning C4005: “YAML_CPP_STATIC_DEFINE”: 宏重定义
   D:\study\dev\Hazel\Hazel\vendor\yaml-cpp\src\node_data.cpp(6,1):
   之前在命令行上声明的“YAML_CPP_STATIC_DEFINE”
   
-  ostream_wrapper.cpp
   parse.cpp
   parser.cpp
   regex_yaml.cpp
